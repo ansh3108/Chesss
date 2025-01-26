@@ -1,4 +1,3 @@
-
 function insertImage() {
     document.querySelectorAll('.box').forEach(image => {
         if (image.innerText.length !== 0) {
